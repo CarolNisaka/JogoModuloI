@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-size: 100vw;
+    opacity: 0.8;
+
+    
+    
+}
+
+.quiz {
+    display:flex;
+    flex-direction: row;
+    border: 2px solid red;
+}
